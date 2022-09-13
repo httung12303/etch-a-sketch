@@ -126,8 +126,9 @@ input[type="range"]::-webkit-slider-thumb {
     width: 10%;
     aspect-ratio: 1 / 1;
     border-radius: 50%;
-    margin-top: -3%;
+    margin-top: -4%;
     cursor: pointer;
+    border: 0.5px solid white;
 }
 input[type="range"]::-moz-range-thumb {
     -moz-appearance: none;
@@ -135,8 +136,9 @@ input[type="range"]::-moz-range-thumb {
     width: 10%;
     aspect-ratio: 1 / 1;
     border-radius: 50%;
-    margin-top: -3%;
+    margin-top: -4%;
     cursor: pointer;
+    border: 0.5px solid white;
 }
 button {
     background-color: transparent;
