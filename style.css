@@ -142,7 +142,7 @@ input[type="range"]::-moz-range-thumb {
     border: 0.5px solid white;
 }
 button {
-    background-color: transparent;
+    background-color: #403D58;
     border: 2px solid white;
     border-radius: 10px;
     width: 70%;
