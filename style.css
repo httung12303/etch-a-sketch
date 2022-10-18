@@ -83,6 +83,8 @@ input[type="color"] {
     width: 100px;
     height: 100px;
     transition: all 0.2s ease-in-out;
+    flex-shrink : 0;
+    /* aspect-ratio: 1; */
 }
 input[type="color"]:hover {
     scale: 1.05;
